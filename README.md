@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Java, Python
+- 🌱 I’m currently learning **Java, Python**
 - 📫 You can reach me via:
   - [📘 Linkedin](https://www.linkedin.com/in/thomasfelix10/)
   - [📧 E-Mail](mailto:thomasfelixbrilliant@gmail.com)
