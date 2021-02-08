@@ -6,6 +6,8 @@ Holla! I'm Thomas Felix, an undergraduate student of **Informatics ITS**. Now I'
 - 📫 You can reach me via:
   - [📘 Linkedin](https://www.linkedin.com/in/thomasfelix10/)
   - [📧 E-Mail](mailto:thomasfelixbrilliant@gmail.com)
+  
+![](https://komarev.com/ghpvc/?username=ThomasFel&color=brightgreen)
 
 ## GitHub Stats
 <div style="display: flex; flex-direction: row; align-items: flex-start;">
