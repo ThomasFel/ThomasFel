@@ -3,15 +3,9 @@
 Holla! I'm Thomas Felix, an undergraduate student of **Informatics ITS**. Now I'm interested in learning web development and data science.
 
 - 🌱 I’m currently learning **Java, Python, Laravel**
-
-## Social Media
-<a href="https://www.linkedin.com/in/thomasfelix10/" target="_blank">
-  <img align="left" alt="Felix's LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-</a>
-<a href="mailto:thomasfelixbrilliant@gmail.com" target="_blank">
-  <img align="left" alt="Felix's E-Mail" width="30px" src="https://img.icons8.com/color/48/000000/email.png" />
-</a>
-<br>
+- 📫 You can reach me via:
+  - [📘 Linkedin](https://www.linkedin.com/in/thomasfelix10/)
+  - [📧 E-Mail](mailto:thomasfelixbrilliant@gmail.com)
 
 ## GitHub Stats
 <div style="display: flex; flex-direction: row; align-items: flex-start;">
