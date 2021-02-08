@@ -1,6 +1,6 @@
 ### Hi there, I'm Felix 👋
 
-Here are some ideas to get you started:
+Holla! I'm Thomas Felix, an undergraduate student of **Informatics ITS**. Now I'm interested in learning web development and data science.
 
 - 🌱 I’m currently learning **Java, Python**
 - 📫 You can reach me via:
