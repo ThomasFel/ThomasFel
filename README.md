@@ -4,6 +4,7 @@ Holla! I'm Thomas Felix, an undergraduate student of **Informatics ITS**. Now I'
 
 - 🌱 I’m currently learning **Java, Python, Laravel**
 - 📫 You can reach me via:
+  - [🌐 Website](https://thomasfel.github.io/)
   - [📘 Linkedin](https://www.linkedin.com/in/thomasfelix10/)
   - [📧 E-Mail](mailto:thomasfelixbrilliant@gmail.com)
   
