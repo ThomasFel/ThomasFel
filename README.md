@@ -7,6 +7,7 @@ Holla! I'm Thomas Felix, an undergraduate student of **Informatics ITS**. Now I'
   - [🌐 Website](https://thomasfel.github.io/)
   - [📘 Linkedin](https://www.linkedin.com/in/thomasfelix10/)
   - [📧 E-Mail](mailto:thomasfelixbrilliant@gmail.com)
+  - [✒️ Portfolio](https://drive.google.com/file/d/1koV3I43EWKZS4_uJCPrg03pSuLkW8YY8/view?usp=sharing)
   
 ![](https://komarev.com/ghpvc/?username=ThomasFel&color=brightgreen)
 
